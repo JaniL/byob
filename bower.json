@@ -1,0 +1,12 @@
+{
+  "name": "byob",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "pixi.js": "pixi#^4.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
